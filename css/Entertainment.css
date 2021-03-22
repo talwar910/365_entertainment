@@ -1,0 +1,164 @@
+.body{
+    background-color: black;
+    width: 100%;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.body .header .navbar{
+    background-color: rgb(238, 204, 118);
+    height: 75px;
+}
+.navbar img{
+    width: 55px;
+    height:40px;
+    padding-top:px;
+    padding-bottom: 5px;
+    margin-top:15px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 6px 6px 6px 6px;
+
+    
+
+}
+.body .header .navbar .nav-items{
+    list-style-type: none;
+    width: 350px;
+    
+    margin-left: 200px;
+    margin-top: -90px;
+    height: 75px;
+    text-decoration:underline :none;
+}
+.header .navbar .nav-items .nav-item{
+    display: inline-block;
+    margin-top: 25px;
+    
+}
+a{
+    display: inline-block;
+    padding-top:20px ;
+    color: black;
+    font-size: 20px;
+    text-decoration: none;
+    
+}
+.navbar::after {
+    content: ;
+    display: block;
+    clear: both;
+}
+li::after{
+    padding: 30px;
+    contain: ;
+    display: block;
+    clear: both;
+}
+.body .header .nav-items .nav-item a{
+    padding: 20px;
+
+}
+.body .header .background .prev h1{
+    display: inline-block;
+    width: 75px;
+    height: 50px;
+    border: 2px solid red;
+    color: aliceblue;
+    text-align: center;
+    margin-top: px;
+
+    
+
+
+    
+}
+.body .header .background .next h1 a{
+    display: inline-block;
+    color: aliceblue;
+    width: 100px;
+    height: 50px;
+    border: 2px solid red;
+    margin-left: 13px;
+    text-align: center;
+    
+
+}
+
+
+ .body .background {
+     display: inline-block;
+    width: 80%;
+     margin-left: 25px;
+     
+ }
+ h1{
+     display: inline-block;
+     margin-top: -500px;
+ }
+ h1::after{
+     content: ;
+     display: inline;
+ }
+
+ .background a h1{
+     display: inline-block;
+     margin-top: px;
+ }
+ .prev{
+     float: left;
+     color: aliceblue ;
+     margin-top: 200px;
+     margin-left: 25px;
+ }
+ .next{
+     color: aliceblue;
+     float: right;
+     margin-top: 200px;
+     margin-right: 25px;
+ }
+
+ .body2 p,h1{
+    color: aliceblue;
+    margin-top: 35px;
+    margin-left: 35px;
+ }
+ hr{
+     color: aliceblue;
+     height: 1px;
+    width: 95%;
+     background-color: aliceblue;
+ }
+.div2 img{
+    margin-top: 20px;
+    margin-left: 40px;
+}
+.div3 img{
+    margin-top: 20px;
+    margin-left: 40px;
+}
+.div4 img{
+    margin-top: 20px;
+    margin-left: 40px;
+}
+
+ .footer{
+    color:#f4f4f4;
+    margin: 50px;
+    background-color: rgb(207, 195, 17);
+    height: 100px;
+
+}
+.footer p{
+    margin-top:-30px;
+    margin-left: 120px;
+    color: black;
+}
+.footer img{
+    width: 50px;
+    height: 40px;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+ 
